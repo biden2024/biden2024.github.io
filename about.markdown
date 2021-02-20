@@ -10,6 +10,6 @@ You can ask for improvements for and raise issues with this site [here](https://
 For those interested. How to make every URL in a document for Jekyll open in a new page with Notepad++ using a regular expression. May need to run it through a few times.
 > Find: ^(.* )(http.+)
 
-> Replace: \1[\2]\(\2\){:target="_blank"}
+> Replace: \1[\2]\\(\2\\){:target="_blank"}
 
 

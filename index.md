@@ -11,7 +11,7 @@ Michael van der Veen | [https://www.mtvlaw.com/](https://www.mtvlaw.com/){:targe
 David Schoen | [https://www.schoenlawfirm.com/](https://www.schoenlawfirm.com/){:target="_blank"}
 Bruce L. Castor, Jr. | [https://www.mtvlaw.com/the-firm/bruce-l-castor-jr/](https://www.mtvlaw.com/the-firm/bruce-l-castor-jr/){:target="_blank"}
 Alan M. Dershowitz | [https://hls.harvard.edu/faculty/directory/10210/Dershowitz](https://hls.harvard.edu/faculty/directory/10210/Dershowitz){:target="_blank"}
-Johnathan Turley | [https://jonathanturley.org/]https://jonathanturley.org/{:target="_blank"}
+Johnathan Turley | [https://jonathanturley.org/](https://jonathanturley.org/){:target="_blank"}
 Jack Wilenchik | [http://www.wb-law.com/attorneys/jack-wilenchik/](http://www.wb-law.com/attorneys/jack-wilenchik/){:target="_blank"}
 Rudy Giuliani | [https://rudygiulianics.com/](https://rudygiulianics.com/){:target="_blank"}
 
