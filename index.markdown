@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Trump's Lawyers
+title: Trump Lawyers
 ---
 ### This is short list of lawyers and firms who supposedly did not appear to distance themselves from 45th president of the United States of America. <span style="color:green">Are these the individuals and organisations that would defend and work for you?</span>
 
