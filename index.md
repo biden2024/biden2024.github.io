@@ -30,7 +30,7 @@ Name | Website
 [Robert J. McWhirter](https://web.archive.org/web/20210203160950/https://www.12news.com/article/news/politics/bar-complaint-filed-against-trump-attorneys-in-arizona/75-857a2dd9-9e96-47b1-83f5-f9782bd875fb) | [https://robertjmcwhirter.com/](https://robertjmcwhirter.com/){:target="_blank"}
 
 
-Ensure your lawyer is representing you.
+Ensure your lawyer is representing you. The video below offers a brief summary of the what makes for a good defense lawyer.
 [![https://img.youtube.com/vi/4TG2a6ja2x8/0.jpg](http://img.youtube.com/vi/4TG2a6ja2x8/0.jpg)](https://youtu.be/4TG2a6ja2x8?t=50 "Cancelling Trump Attorney Sends TERRIBLE Message to Law Students - Viva Frei Vlawg"){:target="_blank"}
 
 ###### This is an index and not complete, opinions interpreted are of your own imagination along with offense taken.
