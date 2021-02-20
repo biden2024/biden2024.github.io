@@ -15,7 +15,7 @@ Jack Wilenchik | [http://www.wb-law.com/attorneys/jack-wilenchik/](http://www.wb
 Rudy Giuliani | [https://rudygiulianics.com/](https://rudygiulianics.com/){:target="_blank"}
 
 
-### This is a list who supposedly did distance themselves. <span style="color:red">Would they work and defend you or buckle and leave in an instant? Would they thrive in [Vichy France](https://en.wikipedia.org/wiki/Vichy_France){:target="_blank"}?</span>
+### This is a list who supposedly did distance themselves. <span style="color:red">Would they defend and work for you or buckle and leave with a moment's notice? Would they stay quiet in [Vichy France](https://en.wikipedia.org/wiki/Vichy_France){:target="_blank"} or do what is right?</span>
 
 Name | Website
 ------------ | -------------
