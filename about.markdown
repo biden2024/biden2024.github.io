@@ -12,3 +12,4 @@ For those interested. How to make every URL in a document for Jekyll open in a n
 
 > Replace: \1[\2]\(\2\){:target="_blank"}
 
+
