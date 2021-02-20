@@ -2,7 +2,7 @@
 layout: page
 title: Trump Lawyers
 ---
-### This is short list of lawyers and firms who supposedly did not appear to distance themselves from 45th president of the United States of America. <span style="color:green">Are these the individuals and organisations that would defend and work for you or your organisation?</span>
+### This is short list of honourable lawyers and firms who supposedly did not appear to distance themselves from 45th president of the United States of America. <span style="color:green">Are these the individuals and organisations that would defend and work for you or your organisation? Will they buckle and leave your defense?</span>
 
 Name | Website
 ------------ | -------------
@@ -16,7 +16,7 @@ Jack Wilenchik | [http://www.wb-law.com/attorneys/jack-wilenchik/](http://www.wb
 Rudy Giuliani | [https://rudygiulianics.com/](https://rudygiulianics.com/){:target="_blank"}
 
 
-### This is a list who supposedly did distance themselves. <span style="color:red">Would they defend and work for you or buckle and leave with a moment's notice?</span>
+### This is a list who supposedly did distance themselves or involved themselves in deriding their honourable fellows. <span style="color:red">Would they defend and work for you or buckle and leave with a moment's notice?</span>
 
 Name | Website
 ------------ | -------------
