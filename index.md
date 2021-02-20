@@ -31,7 +31,7 @@ Name | Website
 
 
 Ensure your lawyer is representing you.
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/4TG2a6ja2x8?autoplay=0&fs=1&iv_load_policy=3&showinfo=1&rel=0&cc_load_policy=0&start=51&end=210&origin=https://youtubeembedcode.com"></iframe>
+[![https://img.youtube.com/vi/4TG2a6ja2x8/0.jpg](http://img.youtube.com/vi/4TG2a6ja2x8/0.jpg)](http://www.youtube.com/watch?v=4TG2a6ja2x8 "Cancelling Trump Attorney Sends TERRIBLE Message to Law Students - Viva Frei Vlawg"){:target="_blank"}
 
 ###### This is an index and not complete, opinions interpreted are of your own imagination along with offense taken.
 ###### This is a basic Jekyll site hosted using GitHub, so not sure how long it will last for as it does not meet the Jordan Peterson standard for morality based on its job application questions. Product seems to work well though, only early days in the race to the bottom I guess. I am well off the tools these days and barely use a PC, so it’s not going to be perfect.
