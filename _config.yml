@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Trump's Lawyers
+title: Trump Lawyers
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is short list of lawyers and firms who supposedly did not appear to distance themselves from 45th president of the United States of America.
